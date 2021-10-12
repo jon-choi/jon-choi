@@ -15,9 +15,9 @@ I am currently seeking new opportunities as a junior full-stack or front-end dev
   <a href="#" ><img alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt=" Ruby" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Rails" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="NodeJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="NodeJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="Storybook" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="PostgreSQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" /></a>&nbsp;&nbsp;
+  <a href="#" ><img alt="PostgreSQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="jQuery" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="HTML" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>&nbsp;&nbsp;
   <a href="#" ><img alt="CSS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>&nbsp;&nbsp;
