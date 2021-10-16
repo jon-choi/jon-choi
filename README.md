@@ -26,8 +26,11 @@ I am currently seeking new opportunities as a junior full-stack or front-end dev
 </div>
   
 ## Currently Learning:
+  ### Python 
   <a href="#" ><img alt="PY" height="32" width="32"
                     src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /></a>
+  ### TypeScript
+  <a href="#" ><img alt="Typescript" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
   
 # GitHub Stats
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-choi&show_icons=true&theme=tokyonight)
