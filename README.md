@@ -25,5 +25,15 @@ I am currently seeking new opportunities as a junior full-stack or front-end dev
   <a href="#" ><img alt="Terminal" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" /></a>
 </div>
   
+## Currently Learning:
+  <a href="#" ><img alt="PY" height="32" width="32"
+                    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /></a>
+  
 # GitHub Stats
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-choi&show_icons=true&theme=tokyonight)
+
+  
+<div align="left">
+    <h3 style="margin-bottom:1rem">Let's Connect!<h3/>
+    <a href="https://www.linkedin.com/in/jonathan-choi-0502" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> &nbsp;&nbsp;&nbsp;
+</div>
