@@ -14,35 +14,32 @@ When I'm not coding or working on projects you can find me:
 
 I am currently seeking new opportunities as a junior full-stack or front-end developer (I've got a flare for making things pretty!). In the meantime, I am currently working on various projects and learning Python. 
 
-<div align="center">
-  <h3>Languages & Tools:<h3/>
-  <a href="#" ><img alt="Javascript" height="32" width="32"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="ReactJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt=" Ruby" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Rails" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="NodeJS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Storybook" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="PostgreSQL" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="jQuery" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="HTML" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="CSS" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Bootstrap" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>&nbsp;&nbsp;
-  <a href="#" ><img alt="Terminal" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" /></a>
+## Connect With Me
+<div align="left">
+    <a href="https://www.linkedin.com/in/jonathan-choi-0502" rel="noreferrer" target="_blank"><img height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://jonathanchoiportfolio.netlify.app/" rel="noreferrer" target="_blank"><img height="30" width="200" src="https://img.shields.io/badge/PERSONAL-PORTFOLIO-<COLOR>.svg" /></a> &nbsp;&nbsp;&nbsp;
 </div>
+
+
+ ## Languages & Tools:
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+  ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
   
 ## Currently Learning:
-  ### Python 
-  <a href="#" ><img alt="PY" height="32" width="32"
-                    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /></a>
-  ### TypeScript
-  <a href="#" ><img alt="Typescript" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>&nbsp;&nbsp;
+  ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   
 # GitHub Stats
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-choi&show_icons=true&theme=tokyonight)
-
-  
-<div align="left">
-    <h3 style="margin-bottom:1rem">Let's Connect!<h3/>
-    <a href="https://www.linkedin.com/in/jonathan-choi-0502" rel="noreferrer" target="_blank"><img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a> &nbsp;&nbsp;&nbsp;
-</div>
