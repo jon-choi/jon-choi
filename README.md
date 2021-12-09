@@ -17,7 +17,7 @@ I am currently seeking new opportunities as a junior full-stack or front-end dev
 ## Connect With Me
 <div align="left">
     <a href="https://www.linkedin.com/in/jonathan-choi-0502" rel="noreferrer" target="_blank"><img height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://jonathanchoiportfolio.netlify.app/" rel="noreferrer" target="_blank"><img height="32" width="210" src="https://img.shields.io/badge/Personal-Portfolio-<COLOR>.svg" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://jonathanchoiportfolio.netlify.app/" rel="noreferrer" target="_blank"><img height="32" width="208" src="https://img.shields.io/badge/Personal-Portfolio-<COLOR>.svg" /></a> &nbsp;&nbsp;&nbsp;
 </div>
 
 
