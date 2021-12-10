@@ -12,7 +12,7 @@ When I'm not coding or working on projects you can find me:
   Golfing 🏌️
   Climbing 🧗
 
-I am currently seeking new opportunities as a junior full-stack or front-end developer (I've got a flare for making things pretty!). In the meantime, I am currently working on various projects and learning Python. 
+I am currently seeking new opportunities as a junior full-stack or front-end developer. In the meantime, I am currently working on various projects and learning Python. 
 
 ## Connect With Me
 <div align="left">
