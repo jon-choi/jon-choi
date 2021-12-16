@@ -39,7 +39,6 @@ I am currently seeking new opportunities as a junior full-stack or front-end dev
   
 ## Currently Learning:
   ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   
 # GitHub Stats
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-choi&show_icons=true&theme=tokyonight)
