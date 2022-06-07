@@ -2,17 +2,7 @@
 
 ## Welcome to my GitHub! 👋  
 
-I'm a newly minted full-stack developer who recently graduated from the Web Development Bootcamp at Lighthouse Labs. My background lies in the food service industry where I worked as a chef in Vancouver, BC. I also attended the University of Victoria where I graduated with a degree in Sociology, with a focus on Law and Social Control, as well as Pop Culture and Media. 
-
-When I'm not coding or working on projects you can find me:
-
-  Making music with Ableton Live 🎹    
-  Jamming on guitar 🎸 
-  Playing hockey 🏒 
-  Golfing 🏌️
-  Climbing 🧗
-
-I am currently working as a Front End Developer Intern at Buoyancy Works in Calgary, AB.
+I am currently looking for new opportunities as a full stack or front end developer.
 
 ## Connect With Me
 <div align="left">
